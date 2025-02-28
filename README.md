@@ -1,4 +1,6 @@
-## Hi there 👋
+## Phân nước Thùy Sinh H2 Aquatic - Giải pháp dinh dưỡng toàn diện cho hồ thùy sinh của bạn 👋
+
+Phân nước h2aquatics cung cấp đầy đủ dưỡng chất cần thiết giúp cây thủy sinh phát triển tốt nhất.
 
 <!--
 **phannuocthuysinh/phannuocthuysinh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
