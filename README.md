@@ -2,6 +2,8 @@
 
 Phân nước h2aquatics cung cấp đầy đủ dưỡng chất cần thiết giúp cây thủy sinh phát triển tốt nhất.
 
+Đặt mua sản phẩm tại https://phannuocthuysinh.com hoặc http://h2aquatics.com
+
 <!--
 **phannuocthuysinh/phannuocthuysinh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
